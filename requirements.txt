@@ -1,6 +1,20 @@
-streamlit==1.31.1
-python-dotenv==1.0.1
-PyPDF2==3.0.1
-torch==2.1.2
-sentence-transformers==2.6.1
-openai==1.12.0
+# Requirements for Streamlit RAG-HAT ATS Optimizer
+
+# Web application framework
+streamlit
+
+# OpenAI API client for LLM calls
+openai
+
+# PDF Processing
+PyPDF2
+
+# Sentence Transformer for RAG Retrieval/Embeddings
+sentence-transformers
+
+# Scientific computing libraries used by sentence-transformers
+torch
+
+# Environment variable management
+python-dotenv
+
