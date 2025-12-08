@@ -1,0 +1,28 @@
+Key Responsibilities:
+
+Design, develop, and maintain core components of our ML platform, focusing on scalability, reliability, and ease of use.
+Research, prototype, and implement advanced ML techniques to optimize inference performance across diverse hardware targets.
+Collaborate with systems and cloud engineers to ensure efficient utilization of underlying hardware resources.
+Contribute to the design of APIs and tools that enable seamless integration and management of our inference solutions.
+
+
+Required Qualifications:
+
+PhD/MS in Computer Science, Computer Engineering, or a related field.
+3+ years of machine learning R&D and deployment experience.
+Strong proficiency in one or more programming languages such as Python, or C++.
+Proficiency in at least one ML framework (e.g., PyTorch, TensorFlow, JAX).
+Solid understanding of software engineering best practices, including data structures, algorithms, and testing.
+Excellent problem-solving abilities and a knack for tackling complex technical challenges.
+Strong communication skills and a proven ability to collaborate effectively in a cross-functional team environment.
+Ability to thrive in a fast-paced, dynamic startup environment.
+
+
+Preferred/Bonus Qualifications:
+
+Experience with training generative machine learning models.
+Experience with optimizing the performance of machine learning models.
+Experience leading research initiatives in Machine Learning, Natural Language Processing, and related fields.
+Familiarity with performance analysis, profiling, and optimization techniques.
+Experience with cloud platforms (AWS, GCP, Azure).
+Experience with containerization and orchestration technologies (e.g., Docker, Kubernetes).
