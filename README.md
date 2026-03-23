@@ -13,7 +13,7 @@ RESMATCH goes beyond simple keyword matching. By leveraging LLMs and RAG workflo
 
 ## 🛠️ Tech Stack
 * **Language:** Python
-* **LLM Orchestration:** [Mention your framework, e.g., LangChain or LlamaIndex]
+* **LLM Orchestration:** [LANGCHAIN,FAISS,OPENAI]
 * **Frontend:** Streamlit
 * **Data Handling:** Pandas, JSON
 
